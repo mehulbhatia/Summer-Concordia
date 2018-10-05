@@ -1,0 +1,74 @@
+1. REQUIRED SOFTWARES TO BE INSTALLED ON THE COMPUTER BEFORE WORKING WITH "AlbertaRes"
+   ------------------------------------------------------------------------------------
+   ------------------------------------------------------------------------------------
+
+		a. A relevant PDF reader (Example: Adobe Acrobat Reader DC)
+		b. Google Earth
+
+
+
+2. MAIN WINDOW
+   -----------
+   -----------
+
+   A. Obtaining Factsheet:
+      --------------------
+	Factsheet for a reservoir can be obtained by clicking on the radiobutton of the corresponding reservoir, and then subsequently clicking on the Get Factsheet
+	button. Make sure that you have a relevant PDF reader already installed on your computer before trying to work with this software.
+
+   B. "Reservoir Information" Menu Tab:
+      ---------------------------------
+	* "Reservoir Data": Opens the "Data Extractor" pop-up window. Please go down to "Data Extractor" info, for further details.
+	* "Graph Plot": Opens the "Graph Plot" pop-up window. Please go down to "Graph Plot" info, for further details.
+	* "Reservoir Location": On clicking the corresponding reservoir location, it opens up Google Earth and subsequently points to location of the reservoir.
+	* "Reservoir Characteristics": Opens the Storage v/s Elevation excel sheet, which contains data for Storage(in 1000 m3) and its corresponding Elevation(in m).
+
+   C. "Info" Menu Tab:
+      ----------------
+        * "About": Opens the .txt file containing information about the software, and the license that the user agrees to follow, if he uses this software.
+        * "Help": Opens the .txt file to help the user by providing a detailed information about each option and it's functions.
+
+   D. "File" Menu Tab:
+      ----------------
+	* "Quit": Closes the application.
+
+
+3. "Reservoir Information" MENU TAB
+   --------------------------------
+   --------------------------------
+
+   A. "Reservoir Data":
+      -----------------
+	Opens the "Data Extractor" pop-up. The inputs shall be in the following manner:
+		
+		*SCF ID/Reservoir Name: Enter the complete name of the reservoir ( as mentioned on the Main Window screen )
+		*Start Year: Enter the start year for the data ( begins from 1928 )
+		*End Year: Enter the end year for the data ( maximum till 2000 )
+		*INFLOW/OUTFLOW/ELEVATION/RAW DATA/ALL: Mention either of these mentioned options for input. Make sure that CAPS LOCK in on.
+		*WEEKLY/MONTHLY/YEARLY: Mention either of these mentioned options for input. Make sure that CAPS LOCK in on.
+		  
+
+		NOTE:: Make sure that OUTPUT_RESULT.xlsx is closed before the "OK" button is pressed.
+
+
+
+   B. "Graph Plot":
+      -------------
+
+		*SCF ID/Reservoir Name: Enter the complete name of the reservoir ( as mentioned on the Main Window screen )
+		*Start Year: Enter the start year for the data ( begins from 1928 )
+		*End Year: Enter the end year for the data ( maximum till 2000 )
+		*WEEKLY/MONTHLY/YEARLY: Mention either of these mentioned options for input. Make sure that CAPS LOCK in on.
+		*Enter the Y-Axis: The available options for Y-Axis are: Elevation, Evaporation, Inflow and Outflow. Make sure the CAPS LOCK is on while giving the
+				   input.
+
+
+
+4. GENERAL INFORMATION
+   -------------------
+   -------------------
+
+   Book3_Final -> Weekly Data
+   Book4_Final -> Monthly Data
+   Book5_Final -> Yearly Data
+

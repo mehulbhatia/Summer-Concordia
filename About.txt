@@ -1,0 +1,14 @@
+1. ABOUT THE SOFTWARE
+  --------------------
+  --------------------
+
+  This software has been developed in Concordia University, Montreal ,Canada, under the supervision of Dr Ali Nazemi. Dr Ali Nazemi is an Assistant Professor in 
+  Building, Civil, and Environmental Engineering Department at Concordia University. 
+  AlbertaRes had been developed in the months of May, June and July 2018, by one of Dr Nazemi's undergraduate student from Indian Institute of Technology
+  Guwahati named Mr Mehul Bhatia. Mr Mehul Bhatia got a chance to work with Dr Ali Nazemi by the grace of Mitacs Globalink Canada, which brings top rated researchers from all over the 
+  world, to work with the best of professors in Canada, and ultimately benifit the Canadian researchers and their research activities. AlbertaRes uses the simulation 
+  data obtained from the Water Resource Management Model ( WRMM ), and presents it in a user-friendly and easily usable way. Inital analysis can be easily done using this
+  software, by utilising the "Reservoir Graph" option and hence obtain relevant graphs as per the need of the user. Locations for these reservoirs has also been 
+  added to the software, for the easy access of the user.
+
+
